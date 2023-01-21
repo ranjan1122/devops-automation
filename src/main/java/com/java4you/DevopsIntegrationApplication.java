@@ -8,7 +8,7 @@ public class DevopsIntegrationApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(DevopsIntegrationApplication.class, args);
-		System.out.println("Hi all");
+		System.out.println("Hi all..good morning all");
 	}
 
 }
